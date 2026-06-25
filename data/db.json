@@ -1,0 +1,152 @@
+{
+  "users": {
+    "u_37b7f4pce": {
+      "id": "u_37b7f4pce",
+      "username": "aura",
+      "createdAt": "2026-06-25T12:11:21.042Z"
+    },
+    "u_whx895qb1": {
+      "id": "u_whx895qb1",
+      "username": "jarvis",
+      "createdAt": "2026-06-25T12:16:29.197Z"
+    },
+    "u_7dksgsa2k": {
+      "id": "u_7dksgsa2k",
+      "username": "no one",
+      "createdAt": "2026-06-25T12:22:09.642Z"
+    },
+    "u_g77t00z38": {
+      "id": "u_g77t00z38",
+      "username": "bruno",
+      "createdAt": "2026-06-25T12:30:22.890Z"
+    }
+  },
+  "sessions": {
+    "s_4i6bq24f5": {
+      "id": "s_4i6bq24f5",
+      "userId": "u_37b7f4pce",
+      "startTime": "2026-06-25T12:11:21.065Z",
+      "endTime": null,
+      "mood": null,
+      "messages": [],
+      "summary": null
+    },
+    "s_m7aulvfde": {
+      "id": "s_m7aulvfde",
+      "userId": "u_37b7f4pce",
+      "startTime": "2026-06-25T12:14:01.419Z",
+      "endTime": null,
+      "mood": null,
+      "messages": [],
+      "summary": null
+    },
+    "s_h4kv2m0q0": {
+      "id": "s_h4kv2m0q0",
+      "userId": "u_whx895qb1",
+      "startTime": "2026-06-25T12:16:29.226Z",
+      "endTime": null,
+      "mood": null,
+      "messages": [],
+      "summary": null
+    },
+    "s_csvb7tge5": {
+      "id": "s_csvb7tge5",
+      "userId": "u_7dksgsa2k",
+      "startTime": "2026-06-25T12:22:09.652Z",
+      "endTime": null,
+      "mood": null,
+      "messages": [
+        {
+          "id": "m_7iev51p9x",
+          "sender": "user",
+          "text": "i feel so depressed",
+          "timestamp": "2026-06-25T12:22:35.971Z",
+          "isCrisis": false
+        },
+        {
+          "id": "m_jf0e9r5of",
+          "sender": "therapist",
+          "text": "Thank you for being so honest about how heavy things feel right now. It is completely okay to feel sad, lonely, or empty. You don't have to force yourself to 'look on the bright side' here. Sometimes just sitting with these feelings and letting them exist is the first step. What do you think this sadness is trying to tell you, or when did you first notice it settling in?",
+          "timestamp": "2026-06-25T12:22:36.994Z",
+          "isCrisis": false
+        },
+        {
+          "id": "m_nny14phml",
+          "sender": "user",
+          "text": "heavy?..more than what i weigh",
+          "timestamp": "2026-06-25T12:23:39.286Z",
+          "isCrisis": false
+        },
+        {
+          "id": "m_gwgpvoxih",
+          "sender": "therapist",
+          "text": "Thank you for being so honest about how heavy things feel right now. It is completely okay to feel sad, lonely, or empty. You don't have to force yourself to 'look on the bright side' here. Sometimes just sitting with these feelings and letting them exist is the first step. What do you think this sadness is trying to tell you, or when did you first notice it settling in?",
+          "timestamp": "2026-06-25T12:23:40.362Z",
+          "isCrisis": false
+        },
+        {
+          "id": "m_ip2b3ph0w",
+          "sender": "user",
+          "text": "thanku",
+          "timestamp": "2026-06-25T12:24:17.668Z",
+          "isCrisis": false
+        },
+        {
+          "id": "m_7gxo9nlbl",
+          "sender": "therapist",
+          "text": "I'm listening, and I'm really glad you shared that with me. It sounds like you're navigating some complex feelings. Could you expand a bit on what that experience is like for you? I want to make sure I truly understand your perspective.",
+          "timestamp": "2026-06-25T12:24:18.703Z",
+          "isCrisis": false
+        },
+        {
+          "id": "m_hyvxj896s",
+          "sender": "user",
+          "text": "yess",
+          "timestamp": "2026-06-25T12:24:25.978Z",
+          "isCrisis": false
+        },
+        {
+          "id": "m_sccodovql",
+          "sender": "therapist",
+          "text": "I'm listening, and I'm really glad you shared that with me. It sounds like you're navigating some complex feelings. Could you expand a bit on what that experience is like for you? I want to make sure I truly understand your perspective.",
+          "timestamp": "2026-06-25T12:24:27.009Z",
+          "isCrisis": false
+        }
+      ],
+      "summary": null
+    },
+    "s_9acj6h6nx": {
+      "id": "s_9acj6h6nx",
+      "userId": "u_g77t00z38",
+      "startTime": "2026-06-25T12:30:22.903Z",
+      "endTime": "2026-06-25T12:31:16.741Z",
+      "mood": "Anxious",
+      "messages": [
+        {
+          "id": "m_ipqur6arp",
+          "sender": "user",
+          "text": "i feel so horrible",
+          "timestamp": "2026-06-25T12:30:41.947Z",
+          "isCrisis": false
+        },
+        {
+          "id": "m_i8nmldpqf",
+          "sender": "therapist",
+          "text": "I'm listening, and I'm really glad you shared that with me. It sounds like you're navigating some complex feelings. Could you expand a bit on what that experience is like for you? I want to make sure I truly understand your perspective.",
+          "timestamp": "2026-06-25T12:30:42.980Z",
+          "isCrisis": false
+        }
+      ],
+      "summary": {
+        "reflection": "In this session, you explored themes surrounding personal growth and emotional balance. You expressed your thoughts openly and worked towards understanding the triggers behind your current feelings.",
+        "trajectory": "You began the session by expressing raw, heavy emotions. As we explored the roots of these feelings, you shifted towards a more reflective and self-compassive mindset.",
+        "copingSteps": [
+          "Establish a consistent daily journal routine to record thoughts.",
+          "Identify and pause automatic negative thoughts when stressed.",
+          "Practice setting clear personal boundaries to conserve emotional energy."
+        ],
+        "exercise": "Box Breathing Exercise"
+      }
+    }
+  }
+}
